@@ -1,0 +1,95 @@
+{
+  "total": 10,
+  "results": [
+    {
+      "datosCuenta": {},
+      "abr": "UCV",
+      "name": "UNIVERSIDAD CENTRAL DE VENEZUELA",
+      "idUsuario": "592ee1bcb7d0c2596fad24a8",
+      "createdAt": "2017-05-31T16:29:57.697Z",
+      "updatedAt": "2017-05-31T16:29:57.697Z",
+      "id": "592eef8538f1b9ab097e28fd"
+    },
+    {
+      "datosCuenta": {},
+      "abr": "LUZ",
+      "name": "UNIVERSIDAD DEL ZULIA",
+      "idUsuario": "592ee1bcb7d0c2596fad24a8",
+      "createdAt": "2017-05-31T16:31:51.813Z",
+      "updatedAt": "2017-05-31T16:31:51.813Z",
+      "id": "592eeff738f1b9ab097e28ff"
+    },
+    {
+      "datosCuenta": {},
+      "abr": "ULA",
+      "name": "UNIVERSIDAD DE LOS ANDES",
+      "idUsuario": "592ee1bcb7d0c2596fad24a8",
+      "createdAt": "2017-05-31T16:32:37.955Z",
+      "updatedAt": "2017-05-31T16:32:37.955Z",
+      "id": "592ef02538f1b9ab097e2900"
+    },
+    {
+      "datosCuenta": {},
+      "abr": "UC",
+      "name": "UNIVERSIDAD DE CARABOBO",
+      "idUsuario": "592ee1bcb7d0c2596fad24a8",
+      "createdAt": "2017-05-31T16:33:32.461Z",
+      "updatedAt": "2017-05-31T16:33:32.461Z",
+      "id": "592ef05c38f1b9ab097e2901"
+    },
+    {
+      "datosCuenta": {},
+      "abr": "UJAP",
+      "name": "UNIVERSIDAD JOSÉ ANTONIO PÁEZ",
+      "idUsuario": "592ee1bcb7d0c2596fad24a8",
+      "createdAt": "2017-05-31T16:35:47.707Z",
+      "updatedAt": "2017-05-31T16:35:47.707Z",
+      "id": "592ef0e338f1b9ab097e2902"
+    },
+    {
+      "datosCuenta": {},
+      "abr": "UGMA",
+      "name": "UNIVERSIDAD GRAN MARISCAL DE AYACUCHO",
+      "idUsuario": "592ee1bcb7d0c2596fad24a8",
+      "createdAt": "2017-05-31T16:36:56.277Z",
+      "updatedAt": "2017-05-31T16:36:56.277Z",
+      "id": "592ef12838f1b9ab097e2903"
+    },
+    {
+      "datosCuenta": {},
+      "abr": "USM",
+      "name": "UNIVERSIDAD SANTA MARÍA",
+      "idUsuario": "592ee1bcb7d0c2596fad24a8",
+      "createdAt": "2017-05-31T16:38:07.157Z",
+      "updatedAt": "2017-05-31T16:38:07.157Z",
+      "id": "592ef16f38f1b9ab097e2904"
+    },
+    {
+      "datosCuenta": {},
+      "abr": "UNERG",
+      "name": "UNIVERSIDAD NACIONAL EXPERIMENTAL RÓMULO GALLEGOS",
+      "idUsuario": "592ee1bcb7d0c2596fad24a8",
+      "createdAt": "2017-05-31T16:39:35.004Z",
+      "updatedAt": "2017-05-31T16:39:35.004Z",
+      "id": "592ef1c738f1b9ab097e2905"
+    },
+    {
+      "datosCuenta": {},
+      "abr": "UAN",
+      "name": "UNIVERSIDAD ANTONIO NARIÑO",
+      "idUsuario": "592ee1bcb7d0c2596fad24a8",
+      "createdAt": "2017-05-31T17:08:58.308Z",
+      "updatedAt": "2017-05-31T17:08:58.308Z",
+      "id": "592ef8aa38f1b9ab097e2929"
+    },
+    {
+      "datosCuenta": {},
+      "abr": "USTA",
+      "name": "UNIVERSIDAD SANTO TOMÁS",
+      "idUsuario": "592ee1bcb7d0c2596fad24a8",
+      "createdAt": "2017-05-31T17:10:56.178Z",
+      "updatedAt": "2017-05-31T17:10:56.178Z",
+      "id": "592ef92038f1b9ab097e292a"
+    }
+  ]
+}

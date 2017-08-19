@@ -1,0 +1,133 @@
+{
+  "total": 16,
+  "results": [
+    {
+      "datosCuenta": {},
+      "nombre": "PERIODONCIA",
+      "idUsuario": "592ee1bcb7d0c2596fad24a8",
+      "createdAt": "2017-05-31T17:04:53.293Z",
+      "updatedAt": "2017-05-31T17:04:53.293Z",
+      "id": "592ef7b538f1b9ab097e2924"
+    },
+    {
+      "datosCuenta": {},
+      "nombre": "REHABILITACION ORAL",
+      "idUsuario": "592ee1bcb7d0c2596fad24a8",
+      "createdAt": "2017-05-31T17:05:25.793Z",
+      "updatedAt": "2017-05-31T17:05:25.793Z",
+      "id": "592ef7d538f1b9ab097e2925"
+    },
+    {
+      "datosCuenta": {},
+      "nombre": "ORTODONCIA",
+      "idUsuario": "592ee1bcb7d0c2596fad24a8",
+      "createdAt": "2017-05-31T17:05:40.374Z",
+      "updatedAt": "2017-05-31T17:05:40.374Z",
+      "id": "592ef7e438f1b9ab097e2926"
+    },
+    {
+      "datosCuenta": {},
+      "nombre": "CIRUGIA BUCO-MAXILOFACIAL",
+      "idUsuario": "592ee1bcb7d0c2596fad24a8",
+      "createdAt": "2017-05-31T17:06:04.744Z",
+      "updatedAt": "2017-05-31T17:06:04.744Z",
+      "id": "592ef7fc38f1b9ab097e2927"
+    },
+    {
+      "datosCuenta": {},
+      "nombre": "CIRUGIA BUCAL",
+      "idUsuario": "592ee1bcb7d0c2596fad24a8",
+      "createdAt": "2017-05-31T17:06:16.547Z",
+      "updatedAt": "2017-05-31T17:06:16.547Z",
+      "id": "592ef80838f1b9ab097e2928"
+    },
+    {
+      "datosCuenta": {},
+      "nombre": "ENDODONCIA",
+      "idUsuario": "592ee1bcb7d0c2596fad24a8",
+      "createdAt": "2017-05-31T17:11:28.426Z",
+      "updatedAt": "2017-05-31T17:11:28.426Z",
+      "id": "592ef94038f1b9ab097e292b"
+    },
+    {
+      "datosCuenta": {},
+      "nombre": "IMPLANTOLOGÍA",
+      "idUsuario": "592ee1bcb7d0c2596fad24a8",
+      "createdAt": "2017-05-31T17:11:52.589Z",
+      "updatedAt": "2017-05-31T17:11:52.589Z",
+      "id": "592ef95838f1b9ab097e292c"
+    },
+    {
+      "datosCuenta": {},
+      "nombre": "ODONTOLOGÍA BIOLÓGICA",
+      "idUsuario": "592ee1bcb7d0c2596fad24a8",
+      "createdAt": "2017-05-31T17:12:35.186Z",
+      "updatedAt": "2017-05-31T17:12:35.186Z",
+      "id": "592ef98338f1b9ab097e292d"
+    },
+    {
+      "datosCuenta": {},
+      "nombre": "ODONTOLOGÍA FORENSE",
+      "idUsuario": "592ee1bcb7d0c2596fad24a8",
+      "createdAt": "2017-05-31T17:12:58.701Z",
+      "updatedAt": "2017-05-31T17:12:58.701Z",
+      "id": "592ef99a38f1b9ab097e292e"
+    },
+    {
+      "datosCuenta": {},
+      "nombre": "ODONTOPEDIATRÍA",
+      "idUsuario": "592ee1bcb7d0c2596fad24a8",
+      "createdAt": "2017-05-31T17:13:35.711Z",
+      "updatedAt": "2017-05-31T17:13:35.711Z",
+      "id": "592ef9bf38f1b9ab097e292f"
+    },
+    {
+      "datosCuenta": {},
+      "nombre": "ORTODONCIA FUNCIONAL DE LOS MAXILARES",
+      "idUsuario": "592ee1bcb7d0c2596fad24a8",
+      "createdAt": "2017-05-31T17:14:26.195Z",
+      "updatedAt": "2017-05-31T17:14:26.195Z",
+      "id": "592ef9f238f1b9ab097e2930"
+    },
+    {
+      "datosCuenta": {},
+      "nombre": "PATOLOGÍA BUCAL",
+      "idUsuario": "592ee1bcb7d0c2596fad24a8",
+      "createdAt": "2017-05-31T17:15:12.050Z",
+      "updatedAt": "2017-05-31T17:15:12.050Z",
+      "id": "592efa2038f1b9ab097e2931"
+    },
+    {
+      "datosCuenta": {},
+      "nombre": "PRÓTESIS BUCAL",
+      "idUsuario": "592ee1bcb7d0c2596fad24a8",
+      "createdAt": "2017-05-31T17:15:46.739Z",
+      "updatedAt": "2017-05-31T17:15:46.739Z",
+      "id": "592efa4238f1b9ab097e2932"
+    },
+    {
+      "datosCuenta": {},
+      "nombre": "PRÓTESIS MÁXILO-FACIAL",
+      "idUsuario": "592ee1bcb7d0c2596fad24a8",
+      "createdAt": "2017-05-31T17:16:36.069Z",
+      "updatedAt": "2017-05-31T17:16:36.069Z",
+      "id": "592efa7438f1b9ab097e2933"
+    },
+    {
+      "datosCuenta": {},
+      "nombre": "EQUILIBRIO OCLUSAL",
+      "idUsuario": "592ee1bcb7d0c2596fad24a8",
+      "createdAt": "2017-05-31T17:17:04.300Z",
+      "updatedAt": "2017-05-31T17:17:04.300Z",
+      "id": "592efa9038f1b9ab097e2934"
+    },
+    {
+      "datosCuenta": {},
+      "nombre": "SALUD PÚBLICA",
+      "idUsuario": "592ee1bcb7d0c2596fad24a8",
+      "createdAt": "2017-05-31T17:17:21.368Z",
+      "updatedAt": "2017-05-31T17:17:21.368Z",
+      "id": "592efaa138f1b9ab097e2935"
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "total": 29,
+  "results": [
+    {
+      "datosCuenta": {},
+      "name": "ANDRÉS BELLO - CORDERO",
+      "idUsuario": "592ee1bcb7d0c2596fad24a8",
+      "createdAt": "2017-05-31T16:41:51.441Z",
+      "updatedAt": "2017-05-31T16:41:51.441Z",
+      "id": "592ef24f38f1b9ab097e2906"
+    },
+    {
+      "datosCuenta": {},
+      "name": "ANTONIO RÓMULO COSTA - LAS MESAS",
+      "idUsuario": "592ee1bcb7d0c2596fad24a8",
+      "createdAt": "2017-05-31T16:42:47.217Z",
+      "updatedAt": "2017-05-31T16:42:47.217Z",
+      "id": "592ef28738f1b9ab097e2907"
+    },
+    {
+      "datosCuenta": {},
+      "name": "AYACUCHO - COLÓN",
+      "idUsuario": "592ee1bcb7d0c2596fad24a8",
+      "createdAt": "2017-05-31T16:43:23.460Z",
+      "updatedAt": "2017-05-31T16:43:23.460Z",
+      "id": "592ef2ab38f1b9ab097e2908"
+    },
+    {
+      "datosCuenta": {},
+      "name": "BOLÍVAR - SAN ANTONIO",
+      "idUsuario": "592ee1bcb7d0c2596fad24a8",
+      "createdAt": "2017-05-31T16:43:50.232Z",
+      "updatedAt": "2017-05-31T16:43:50.232Z",
+      "id": "592ef2c638f1b9ab097e2909"
+    },
+    {
+      "datosCuenta": {},
+      "name": "CÁRDENAS - TÁRIBA",
+      "idUsuario": "592ee1bcb7d0c2596fad24a8",
+      "createdAt": "2017-05-31T16:44:07.760Z",
+      "updatedAt": "2017-05-31T16:44:07.760Z",
+      "id": "592ef2d738f1b9ab097e290a"
+    },
+    {
+      "datosCuenta": {},
+      "name": "CÓRDOBA - SAN ANA",
+      "idUsuario": "592ee1bcb7d0c2596fad24a8",
+      "createdAt": "2017-05-31T16:44:38.202Z",
+      "updatedAt": "2017-05-31T16:44:38.202Z",
+      "id": "592ef2f638f1b9ab097e290b"
+    },
+    {
+      "datosCuenta": {},
+      "name": "FERNÁNDEZ FEO - EL PIÑAL",
+      "idUsuario": "592ee1bcb7d0c2596fad24a8",
+      "createdAt": "2017-05-31T16:45:14.972Z",
+      "updatedAt": "2017-05-31T16:45:14.972Z",
+      "id": "592ef31a38f1b9ab097e290c"
+    },
+    {
+      "datosCuenta": {},
+      "name": "FRANCISCO DE MIRANDA - SAN JÓSE DE BOLÍVAR",
+      "idUsuario": "592ee1bcb7d0c2596fad24a8",
+      "createdAt": "2017-05-31T16:46:03.244Z",
+      "updatedAt": "2017-05-31T16:46:03.244Z",
+      "id": "592ef34b38f1b9ab097e290d"
+    },
+    {
+      "datosCuenta": {},
+      "name": "GARCÍA DE HEVIA - LA FRÍA",
+      "idUsuario": "592ee1bcb7d0c2596fad24a8",
+      "createdAt": "2017-05-31T16:46:39.645Z",
+      "updatedAt": "2017-05-31T16:46:39.645Z",
+      "id": "592ef36f38f1b9ab097e290e"
+    },
+    {
+      "datosCuenta": {},
+      "name": "GUÁSIMOS - PALMIRA",
+      "idUsuario": "592ee1bcb7d0c2596fad24a8",
+      "createdAt": "2017-05-31T16:47:37.940Z",
+      "updatedAt": "2017-05-31T16:47:37.940Z",
+      "id": "592ef3a938f1b9ab097e290f"
+    },
+    {
+      "datosCuenta": {},
+      "name": "INDEPENDENCIA - CAPACHO NUEVO",
+      "idUsuario": "592ee1bcb7d0c2596fad24a8",
+      "createdAt": "2017-05-31T16:48:43.893Z",
+      "updatedAt": "2017-05-31T16:48:43.893Z",
+      "id": "592ef3eb38f1b9ab097e2911"
+    },
+    {
+      "datosCuenta": {},
+      "name": "JÁUREGUI - LA GRITA",
+      "idUsuario": "592ee1bcb7d0c2596fad24a8",
+      "createdAt": "2017-05-31T16:49:11.545Z",
+      "updatedAt": "2017-05-31T16:49:11.545Z",
+      "id": "592ef40738f1b9ab097e2912"
+    },
+    {
+      "datosCuenta": {},
+      "name": "JÓSE MARÍA VARGAS - EL COBRE",
+      "idUsuario": "592ee1bcb7d0c2596fad24a8",
+      "createdAt": "2017-05-31T16:49:34.173Z",
+      "updatedAt": "2017-05-31T16:49:34.173Z",
+      "id": "592ef41e38f1b9ab097e2913"
+    },
+    {
+      "datosCuenta": {},
+      "name": "JUNÍN - RUBIO",
+      "idUsuario": "592ee1bcb7d0c2596fad24a8",
+      "createdAt": "2017-05-31T16:49:57.272Z",
+      "updatedAt": "2017-05-31T16:49:57.272Z",
+      "id": "592ef43538f1b9ab097e2914"
+    },
+    {
+      "datosCuenta": {},
+      "name": "SAN JUDAS TADEO - UMUQUENA",
+      "idUsuario": "592ee1bcb7d0c2596fad24a8",
+      "createdAt": "2017-05-31T16:50:58.046Z",
+      "updatedAt": "2017-05-31T16:50:58.046Z",
+      "id": "592ef47238f1b9ab097e2915"
+    },
+    {
+      "datosCuenta": {},
+      "name": "LIBERTAD - CAPACHO VIEJO",
+      "idUsuario": "592ee1bcb7d0c2596fad24a8",
+      "createdAt": "2017-05-31T16:51:20.248Z",
+      "updatedAt": "2017-05-31T16:51:20.248Z",
+      "id": "592ef48838f1b9ab097e2916"
+    },
+    {
+      "datosCuenta": {},
+      "name": "LIBERTADOR - ABEJALES",
+      "idUsuario": "592ee1bcb7d0c2596fad24a8",
+      "createdAt": "2017-05-31T16:51:45.450Z",
+      "updatedAt": "2017-05-31T16:51:45.450Z",
+      "id": "592ef4a138f1b9ab097e2917"
+    },
+    {
+      "datosCuenta": {},
+      "name": "LOBATERA - LOBATERA",
+      "idUsuario": "592ee1bcb7d0c2596fad24a8",
+      "createdAt": "2017-05-31T16:52:01.021Z",
+      "updatedAt": "2017-05-31T16:52:01.021Z",
+      "id": "592ef4b138f1b9ab097e2918"
+    },
+    {
+      "datosCuenta": {},
+      "name": "MICHELENA - MICHELENA",
+      "idUsuario": "592ee1bcb7d0c2596fad24a8",
+      "createdAt": "2017-05-31T16:52:16.083Z",
+      "updatedAt": "2017-05-31T16:52:16.083Z",
+      "id": "592ef4c038f1b9ab097e2919"
+    },
+    {
+      "datosCuenta": {},
+      "name": "PARAMILLO - COLONCITO",
+      "idUsuario": "592ee1bcb7d0c2596fad24a8",
+      "createdAt": "2017-05-31T16:52:45.858Z",
+      "updatedAt": "2017-05-31T16:52:45.858Z",
+      "id": "592ef4dd38f1b9ab097e291a"
+    },
+    {
+      "datosCuenta": {},
+      "name": "PEDRO MARÍA UREÑA - UREÑA",
+      "idUsuario": "592ee1bcb7d0c2596fad24a8",
+      "createdAt": "2017-05-31T16:53:13.673Z",
+      "updatedAt": "2017-05-31T16:53:13.673Z",
+      "id": "592ef4f938f1b9ab097e291b"
+    },
+    {
+      "datosCuenta": {},
+      "name": "RAFAEL URDANETA - DELICIAS",
+      "idUsuario": "592ee1bcb7d0c2596fad24a8",
+      "createdAt": "2017-05-31T16:53:32.527Z",
+      "updatedAt": "2017-05-31T16:53:32.527Z",
+      "id": "592ef50c38f1b9ab097e291c"
+    },
+    {
+      "datosCuenta": {},
+      "name": "SAMUEL DARIO MALDONADO - LA TENDIDA",
+      "idUsuario": "592ee1bcb7d0c2596fad24a8",
+      "createdAt": "2017-05-31T16:54:07.729Z",
+      "updatedAt": "2017-05-31T16:54:07.729Z",
+      "id": "592ef52f38f1b9ab097e291d"
+    },
+    {
+      "datosCuenta": {},
+      "name": "SAN CRISTOBAL - SAN CRISTOBAL",
+      "idUsuario": "592ee1bcb7d0c2596fad24a8",
+      "createdAt": "2017-05-31T16:54:25.970Z",
+      "updatedAt": "2017-05-31T16:54:25.970Z",
+      "id": "592ef54138f1b9ab097e291e"
+    },
+    {
+      "datosCuenta": {},
+      "name": "SEBORUCO - SEBORUCO",
+      "idUsuario": "592ee1bcb7d0c2596fad24a8",
+      "createdAt": "2017-05-31T16:54:40.686Z",
+      "updatedAt": "2017-05-31T16:54:40.686Z",
+      "id": "592ef55038f1b9ab097e291f"
+    },
+    {
+      "datosCuenta": {},
+      "name": "SIMÓN RODRÍGUEZ - SAN SIMÓN",
+      "idUsuario": "592ee1bcb7d0c2596fad24a8",
+      "createdAt": "2017-05-31T16:55:34.095Z",
+      "updatedAt": "2017-05-31T16:55:34.095Z",
+      "id": "592ef58638f1b9ab097e2920"
+    },
+    {
+      "datosCuenta": {},
+      "name": "SUCRE - QUENIQUEA",
+      "idUsuario": "592ee1bcb7d0c2596fad24a8",
+      "createdAt": "2017-05-31T16:55:56.738Z",
+      "updatedAt": "2017-05-31T16:55:56.738Z",
+      "id": "592ef59c38f1b9ab097e2921"
+    },
+    {
+      "datosCuenta": {},
+      "name": "TORBES - SAN JOSECITO",
+      "idUsuario": "592ee1bcb7d0c2596fad24a8",
+      "createdAt": "2017-05-31T16:56:15.427Z",
+      "updatedAt": "2017-05-31T16:56:15.427Z",
+      "id": "592ef5af38f1b9ab097e2922"
+    },
+    {
+      "datosCuenta": {},
+      "name": "URIBANTE - PREGONERO",
+      "idUsuario": "592ee1bcb7d0c2596fad24a8",
+      "createdAt": "2017-05-31T16:56:41.866Z",
+      "updatedAt": "2017-05-31T16:56:41.867Z",
+      "id": "592ef5c938f1b9ab097e2923"
+    }
+  ]
+}
